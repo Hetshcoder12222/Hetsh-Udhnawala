@@ -31,7 +31,7 @@ Most kids play with toys—I play with **algorithms** 😄
 ---
 
 ## 🤝 Looking to Collaborate On
-Projects with [@MilanKathiriya](https://github.com/MilanKathiriya)  
+Projects with [@HiteshChoudary]((https://github.com/hiteshchoudhary))  
 ...and anyone excited about **AI/ML** and making cool stuff!
 
 ---
