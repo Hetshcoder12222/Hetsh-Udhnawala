@@ -1,0 +1,12 @@
+body{
+    background-color: #000000;
+    color: #00ff00;
+    font-family: Microsoft YaHei UI;
+    text-align: center;
+}
+
+#id1{
+    border-color: #00ffff;
+    border-style: solid;
+    background-color: #ff0000;
+}

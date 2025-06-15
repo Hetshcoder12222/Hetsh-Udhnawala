@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./10_Head.css" />
+    <title>Head</title>
+  </head>
+  <body>
+    <!-- Today we will learn about the head and its contents -->
+    <!-- You can see the head and its content below: -->
+
+    <!-- <head> -->
+    <!-- <meta charset="UTF-8"> -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <!-- link rel="stylesheet" href="styles.css"> -->
+    <!-- <style>
+        body{
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+    </style> -->
+    <!-- <title>Document</title> -->
+    <!-- </head> -->
+
+    <h2>Link Tag</h2>
+
+    <link rel="stylesheet" href="" />
+    <link rel="script" href="" />
+
+    <!-- We use link tag to link external resources like CSS/JavaScript files. -->
+    <!-- rel means relationship, and href means the path to the file. -->
+    <!-- rel is used to define the relationship between the current document and the linked resource and for its type like js is script, css is stylesheet etc. -->
+    <!-- We can use the ./ to refer to the current directory, or ../ to refer to the parent directory. -->
+
+    <p>We use link tag to link external resources like CSS/JavaScript files.</p>
+    <br />
+    <p>rel means relationship, and href means the path to the file.</p>
+    <br />
+    <p>
+      rel is used to define the relationship between the current document and
+      the linked resource and for its type like js is script, css is stylesheet
+      etc.
+    </p>
+    <br />
+    <p>
+      We can use the ./ to refer to the current directory, or ../ to refer to
+      the parent directory.
+    </p>
+    <br />
+
+    <span><h1 id="id1">Meta Tags</h1></span>
+    <h2>UTF tag</h2>
+
+    <meta charset="UTF-8" />
+    <meta charset="UTF-16" />
+
+    <!-- The meta tag is used to provide metadata about the HTML document. -->
+    <!-- The charset attribute specifies the character encoding for the HTML document. -->
+
+    <!-- UTF-8 dont support emojis, while UTF-16 supports emojis. -->
+
+    <p>The meta tag is used to provide metadata about the HTML document.</p>
+    <br />
+    <p>
+      The charset attribute specifies the character encoding for the HTML
+      document.
+    </p>
+    <br />
+
+    <p>UTF-8 dont support emojis, while UTF-16 supports emojis.</p>
+    <br />
+
+    <h2>Keywords tag</h2>
+
+    <meta name="keywords" content="HTML, CSS, JavaScript" />
+
+    <!-- The meta keyword tag in HTML is used to provide information about a web page to search engines, helping them understand the page's content and relevance. -->
+    <p>
+      The meta keyword tag in HTML is used to provide information about a web
+      page to search engines, helping them understand the page's content and
+      relevance.
+    </p>
+    <br />
+
+    <h2>Description tag</h2>
+
+    <meta name="description" content="This is a sample HTML document." />
+
+    <!-- The meta description tag in HTML is used to provide a brief summary of a web page's content, which can be displayed in search engine results. -->
+    <p>
+      The meta description tag in HTML is used to provide a brief summary of a
+      web page's content, which can be displayed in search engine results.
+    </p>
+    <br />
+
+    <h2>Http-equiv tag</h2>
+
+    <meta http-equiv="refresh" content="live" />
+
+    <!-- The http-equiv attribute in the meta tag is used to provide HTTP headers in the HTML document. -->
+    <!-- If the http-equiv attribute is set, the <meta> element is a pragma directive, providing information equivalent to what can be given by a similarly-named HTTP header. -->
+    <!-- the http-equiv means given below diagraph -->
+    <p>
+      The http-equiv attribute in the meta tag is used to provide HTTP headers
+      in the HTML document.
+    </p>
+    <br />
+    <p>
+      If the http-equiv attribute is set, the <meta /> element is a pragma
+      directive, providing information equivalent to what can be given by a
+      similarly-named HTTP header.
+    </p>
+    <br />
+    <p>the http-equiv means given below diagraph</p>
+    <br />
+
+    <center><img src="10_Head.png" width="600px" alt="Error" /></center>
+
+    <h2>Viewport tag</h2>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- The viewport meta tag is used to control the layout and scaling of a web page on mobile devices. -->
+    <!-- The device width sets the width of the page to follow the screen-width of the device -->
+    <!-- The initial scale sets the zoom level -->
+    <p>
+      The viewport meta tag is used to control the layout and scaling of a web
+      page on mobile devices.
+    </p>
+    <br />
+    <p>
+      The device width sets the width of the page to follow the screen-width of
+      the device
+    </p>
+    <br />
+    <p>The initial scale sets the zoom level</p>
+    <br />
+
+    <h3>Importance of initial-scale</h3>
+
+    <!-- When we right click and inspect you can see a button like this:  -->
+    <p>When we right click and inspect you can see a button like this:</p>
+    <br />
+
+    <img src="10_Head2.png" width="200px" alt="Error" />
+
+    <!-- When you click on it, and the initial-scale  is 1.0, nothing happens -->
+    <!-- But the initaial-scale is 0/0.0, so some of part will be cut -->
+    <p>When you click on it, and the initial-scale is 1.0, nothing happens</p>
+    <br />
+    <p>But the initaial-scale is 0/0.0, so some of part will be cut</p>
+    <br />
+  </body>
+</html>

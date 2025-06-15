@@ -1,0 +1,92 @@
+  |‾‾‾‾‾‾‾‾‾‾‾‾||‾‾‾‾‾‾|           |‾‾‾‾‾‾‾‾‾‾‾‾|             |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+  |    Commit      ⋁   |           |    Push    |             |  Commit & Push  |
+  |            ||      |           |            |             |                 |
+   ‾‾‾‾‾‾‾‾‾‾‾‾  ‾‾‾‾‾‾             ‾‾‾‾‾‾‾‾‾‾‾‾               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Html{
+
+    1.৹ Index
+    |
+    |
+    2.৹ Heading
+    |
+    |
+    3.৹ Formatting
+    |
+    |
+    4.৹ Color(Hex value)
+    |
+    |
+    5.৹ Color(rgb)
+    |
+    |
+    6.৹ Color(hsl)
+    |
+    |
+    7.৹ Color(hwb) <!-- Skipped -->
+    |
+    |
+    8.৹ Link Tags
+    |
+    |
+    9.৹ Images
+    |
+    |
+    10.৹ Maps
+    |
+    |
+    11.৹ Tables
+    |
+    |
+    12.৹ Lists
+    |
+    |
+    13.৹ Inline
+    |
+    |
+    14.৹ Block
+    |
+    |
+    15.৹ Class
+    |
+    |
+    16.৹ ID
+    |
+    |
+    17.৹ Iframe
+    |
+    |
+    18.৹ Modern Semantics
+    |
+    |
+    20.৹ Forms
+    |
+    |
+    21.৹ Forms Input
+    |
+    |
+    22.৹
+}
+
+                                                    Files
+                                                      |
+                                                      |
+                                                      |
+    |‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾|
+    |   HTML   |        CSS      |  JavaScript  |   PNG/JPG   |   PDF/WEBP    |   RAW/SVG    |   MP3/MP4  |
+    |          |                 |              |             |               |              |            |
+     ‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾‾‾‾‾‾‾‾‾‾|‾‾‾‾‾
+
+    1.  HTML            -              -              -              -              -              -
+    2.  HTML            -              -              -              -              -              -
+    3.  HTML            -              -              -              -              -              -
+    4.  HTML            -              -              -              -              -              -
+    5.  HTML            -              -              -              -              -              -
+    6.  HTML           CSS         JavaScript       PNG(2)           -              -             MP4
+    7.  HTML           CSS             -              -              -              -              -
+    8.  HTML           CSS             -              -              -              -              -
+    9.  HTML           CSS             -              -              -              -              -
+   10.  HTML           CSS             -            PNG(2)           -              -              -
+   11.  HTML           CSS             -              -              -              -              -
+   12.  HTML           CSS             -              -              -              -              -
+   13.  HTML           CSS             -            PNG(2)           -              -             MP4

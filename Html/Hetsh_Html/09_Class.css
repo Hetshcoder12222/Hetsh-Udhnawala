@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+    color:#00ff00;
+    font-family: Microsoft YaHei UI;
+}
+
+.html {
+    background-color: #00ff00;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+#css {
+    background-color: #ff0000;
+    color: #00ff00;
+    font-style: italic;
+}
+
+#js {
+    background-color: #0000ff;
+    color: #ffffff;
+    text-decoration: underline;
+}

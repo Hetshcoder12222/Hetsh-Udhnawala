@@ -1,0 +1,21 @@
+Body{
+    background-color:#000000;
+    color:#40ff00;
+    font-family:Microsoft YaHei UI;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+    text-align: center;
+}
+
+tr{
+    background-color: #444444;
+}

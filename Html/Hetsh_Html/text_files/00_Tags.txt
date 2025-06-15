@@ -1,0 +1,296 @@
+🌐 Basics of HTML
+
+1.<html> </html>
+→ Defines the start and end of an HTML document.
+
+2.<h1> </h1>
+→ Heading tag (ranges from <h1> to <h6>, where <h1> is the largest).
+
+3.<p> </p>
+→ Paragraph tag.
+
+4.<b> </b>
+→ Bold text tag.
+
+5.<i> </i>
+→ Italic text tag.
+
+6.<ul> </ul>
+→ Unordered list tag (bulleted list).
+
+7.<ol> </ol>
+→ Ordered list tag (numbered list).
+
+8.<li> </li>
+→ List item tag (used inside <ul> or <ol>).
+
+9.<form> </form>
+→ Basic form container tag (used to collect user input).
+
+10.<table> </table>
+→ Table container tag.
+
+11.<a href="URL"> </a>
+→ Anchor (link) tag. "href" defines the hyperlink destination.
+
+12.<img src="URL" />
+→ Image tag. "src" specifies the image source.
+
+13.img src="URL"
+→ Attribute used in tags like <img> or <video> to specify the file path or URL.
+
+14.<br>
+→ Line break tag (used to break text to the next line).
+
+15.<hr>
+→ Horizontal rule tag (draws a horizontal line across the page).
+
+
+
+➕ Additional Common HTML Tags
+
+16.<div> </div>
+→ A block-level container for grouping content.
+
+17.<span> </span>
+→ An inline container for styling small parts of text.
+
+18.<input type="text">
+→ Text input field (used inside forms).
+
+19.<button> </button>
+→ Clickable button element.
+
+20.<label> </label>
+→ Describes a form input for accessibility.
+
+21.<head> </head>
+→ Contains metadata and links (CSS, title, etc.)
+
+22.<title> </title>
+→ Sets the title of the page (inside <head>).
+
+23.<link rel="stylesheet" href="style.css">
+→ Links an external CSS file.
+
+24.<script src="script.js"> </script>
+→ Adds or links external JavaScript code.
+
+25.<!-- comment -->
+→ HTML comment (not displayed on the page).
+
+
+            "A": "Alpha",
+            "B": "Bravo",
+            "C": "Charlie",
+            "D": "Delta",
+            "E": "Echo",
+            "F": "Foxtrot",
+            "G": "Golf",
+            "H": "Hotel",
+            "I": "India",
+            "J": "Juliet",
+            "K": "Kilo",
+            "L": "Lima",
+            "M": "Mike",
+            "N": "November",
+            "O": "Oscar",
+            "P": "Papa",
+            "Q": "Quebec",
+            "R": "Romeo",
+            "S": "Sierra",
+            "T": "Tango",
+            "U": "Uniform",
+            "V": "Victor",
+            "W": "Whiskey",
+            "X": "X-ray",
+            "Y": "Yankee",
+            "Z": "Zulu"
+
+
+Complete List of Semantic HTML Elements
+1. Structural Elements
+Element	Description
+<html>	Root element of an HTML document
+<head>	Contains metadata, scripts, styles, etc.
+<body>	Contains the visible content of the document
+<header>	Introductory content or navigational links
+<nav>	Section with navigation links
+<main>	Main content unique to the document
+<section>	Thematic grouping of content
+<article>	Independent, self-contained content (blog post, news)
+<aside>	Content aside from main content (sidebar, callout)
+<footer>	Footer for a section or page
+<address>	Contact information
+________________________________________
+2. Text Content Elements
+Element	Description
+<h1> - <h6>	Headings of different levels
+<p>	Paragraph
+<hr>	Thematic break (horizontal rule)
+<pre>	Preformatted text
+<blockquote>	Section quoted from another source
+<cite>	Citation of a creative work
+<code>	Inline code snippet
+<samp>	Sample output from a program
+<kbd>	Keyboard input
+<var>	Variable or placeholder text
+<mark>	Highlighted text
+<del>	Deleted text
+<ins>	Inserted text
+________________________________________
+3. Inline Text Semantics
+Element	Description
+<a>	Hyperlink
+<strong>	Strong importance (usually bold)
+<em>	Emphasis (usually italic)
+<b>	Bold text (without extra importance)
+<i>	Italic text (without extra emphasis)
+<u>	Underlined text
+<small>	Smaller text (fine print)
+<sup>	Superscript
+<sub>	Subscript
+________________________________________
+4. Embedded Content
+Element	Description
+<img>	Image
+<video>	Video player
+<audio>	Audio player
+<source>	Media resource for <video> or <audio>
+<track>	Text tracks (captions, subtitles) for media
+<iframe>	Inline frame (embedding another webpage)
+<embed>	Embedded content like plugins
+<object>	Generic embedded object
+<picture>	Responsive images
+________________________________________
+5. Table Elements
+Element	Description
+<table>	Table container
+<caption>	Table caption
+<thead>	Table header group
+<tbody>	Table body group
+<tfoot>	Table footer group
+<tr>	Table row
+<th>	Header cell
+<td>	Data cell
+________________________________________
+6. Form Elements
+Element	Description
+<form>	Form container
+<label>	Label for form input
+<input>	Various input types (text, checkbox, etc.)
+<textarea>	Multi-line text input
+<button>	Clickable button
+<select>	Drop-down list
+<option>	Option in a drop-down
+<fieldset>	Group related inputs
+<legend>	Caption for a fieldset
+<datalist>	Predefined list of options
+________________________________________
+7. Other Useful Semantic Elements
+Element	Description
+<details>	Disclosure widget, can show/hide content
+<summary>	Summary or label for <details>
+<dialog>	Dialog box or modal window
+<meter>	Scalar measurement within a known range
+<progress>	Progress of a task
+<time>	Date or time value
+________________________________________
+Summary
+Using these semantic elements correctly helps:
+•	Make your HTML more meaningful
+•	Improve accessibility (screen readers, assistive tech)
+•	Boost SEO with better structure
+•	Improve code maintainability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input:b
+input:btn
+input: button
+input:c
+input: checkbox
+input:color
+input:date
+input: datetime
+input: datetime-local
+input: email
+input: f
+input:file
+input:h
+input:hidden
+input:i
+input: image
+input:month
+input: number
+input:p
+input: password
+input:r
+input:radio
+input:range
+input:reset
+input:s
+input: search
+input: submit
+input:t
+input:tel
+input:text
+input:time
+input:url
+input:week
